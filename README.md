@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Passionate MERN Stack Developer | Open Source Contributor | Freelancer
+  🚀 Passionate MERN Stack Developer | Open Source Contributor | Freelancer Software Developer
 </h3>
 
 <p align="center">
