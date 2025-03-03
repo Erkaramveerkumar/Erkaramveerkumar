@@ -37,9 +37,8 @@
 ## 📂 **Featured Repositories**
 | Repository | Description | Tech Stack |
 |------------|------------|------------|
-| [🚀 Portfolio](https://github.com/Erkaramveerkumar/portfolio) | My personal portfolio website | ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) |
-| [💬 Chat App](https://github.com/Erkaramveerkumar/chat-app) | A real-time chat application | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb) |
-| [📊 GitHub Stats Widget](https://github.com/Erkaramveerkumar/github-stats) | A widget to display GitHub stats dynamically | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![API](https://img.shields.io/badge/API-orange?style=flat&logo=api) |
+| [🚀 Life Sure](https://lifresure.netlify.app) | Life Sure website | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+|
 
 ---
 
