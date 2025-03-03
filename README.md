@@ -38,7 +38,6 @@
 | Repository | Description | Tech Stack |
 |------------|------------|------------|
 | [🚀 Life Sure](https://lifresure.netlify.app) | Life Sure website | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-|
 
 ---
 
