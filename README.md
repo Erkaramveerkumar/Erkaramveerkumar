@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karamveer Kumar !
-🔭 I’m currently working on MERN Stack Developer 
-🌱 I’m learning **[Technology Name]**
+🔭 I’m a MERN Stack Developer 
+🌱 I’m learning **[New Technology With AI Tools]**
 📫 Reach me at [er.karamveerkishan@gmail.com](mailto:er.karamveerkishan@gmail.com)
 
 ## 🚀 Tech Stack
