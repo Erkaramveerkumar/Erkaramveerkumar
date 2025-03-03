@@ -1,7 +1,5 @@
 <h1 align="center">
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Karamveer Kumar</h1>
-
-
+  <h1 align="center">𝓗𝓲𝓲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm 𝓚𝓪𝓻𝓪𝓶𝓿𝓮𝓮𝓻 𝓚𝓾𝓶𝓪𝓻</h1>
 </h1>
 
 <h3 align="center">
@@ -33,6 +31,15 @@
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
+---
+
+## 📂 **Featured Repositories**
+| Repository | Description | Tech Stack |
+|------------|------------|------------|
+| [🚀 Portfolio](https://github.com/Erkaramveerkumar/portfolio) | My personal portfolio website | ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js) |
+| [💬 Chat App](https://github.com/Erkaramveerkumar/chat-app) | A real-time chat application | ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io) ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb) |
+| [📊 GitHub Stats Widget](https://github.com/Erkaramveerkumar/github-stats) | A widget to display GitHub stats dynamically | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript) ![API](https://img.shields.io/badge/API-orange?style=flat&logo=api) |
 
 ---
 
@@ -71,6 +78,6 @@
 ---
 
 ## ❤️ **Support My Work**
-If you like my work, consider giving me a ⭐ on GitHub !  
+If you like my work, consider giving me a ⭐ on GitHub!
 
 ---
