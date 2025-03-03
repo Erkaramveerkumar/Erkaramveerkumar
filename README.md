@@ -1,5 +1,5 @@
 <h1 align="center">
-  <h1 align="center">𝓗𝓲𝓲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm 𝓚𝓪𝓻𝓪𝓶𝓿𝓮𝓮𝓻 𝓚𝓾𝓶𝓪𝓻</h1>
+  <h1 align="center">𝓗𝓲𝓲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, 𝓘'𝓶 𝓚𝓪𝓻𝓪𝓶𝓿𝓮𝓮𝓻 𝓚𝓾𝓶𝓪𝓻</h1>
 </h1>
 
 <h3 align="center">
