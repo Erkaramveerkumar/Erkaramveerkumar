@@ -55,13 +55,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Erkaramveerkumar&theme=onedark&no-bg=true&no-frame=true&margin-w=5&animation=true" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 **GitHub Contributions**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erkaramveerkumar&theme=react-dark" alt="GitHub Contributions Graph" />
