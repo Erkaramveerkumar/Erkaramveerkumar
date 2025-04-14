@@ -38,7 +38,8 @@
 | Repository | Description | Tech Stack |
 |------------|------------|------------|
 | [🚀 Life Sure](https://lifresure.netlify.app) | Life Sure website | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-| [⚛️ ChatBridge](https://chatbridge.link) | Real-time anonymous chat app built with React | ![React](https://img.shields.io/badge/React-61DAFB?style=
+| [⚛️ ChatBridge](https://chatbridge.link) | Real-time anonymous chat app built with React | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 ---
